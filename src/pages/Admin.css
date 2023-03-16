@@ -28,6 +28,10 @@ h2 {
   color: #cccccc;
 }
 
+.page-scroll:hover {
+  cursor: pointer;
+}
+
 /* STRUCTURE */
 
 .wrapper {

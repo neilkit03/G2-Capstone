@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-scroll";
+import "../pages/Admin.css";
 
 const Header = () => {
   return (
