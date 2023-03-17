@@ -20,7 +20,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Two Storey House</h4>
                       </div>
                       <img
                         src='img/portfolio/01-small.jpg'
@@ -41,7 +41,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Kitchenette</h4>
                       </div>
                       <img
                         src='img/portfolio/02-small.jpg'
@@ -62,7 +62,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Galley</h4>
                       </div>
                       <img
                         src='img/portfolio/03-small.jpg'
@@ -83,7 +83,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Canopy</h4>
                       </div>
                       <img
                         src='img/portfolio/04-small.jpg'
@@ -104,7 +104,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Parkade & Entrance</h4>
                       </div>
                       <img
                         src='img/portfolio/05-small.jpg'
@@ -125,7 +125,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Dolor Sit</h4>
+                        <h4>Single-family detached home</h4>
                       </div>
                       <img
                         src='img/portfolio/06-small.jpg'
@@ -146,7 +146,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Dolor Sit</h4>
+                        <h4>Bathroom</h4>
                       </div>
                       <img
                         src='img/portfolio/07-small.jpg'
@@ -167,7 +167,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Scullery</h4>
                       </div>
                       <img
                         src='img/portfolio/08-small.jpg'
@@ -188,7 +188,7 @@ const Portfolio = () => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Cockloft</h4>
                       </div>
                       <img
                         src='img/portfolio/09-small.jpg'
