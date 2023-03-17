@@ -448,8 +448,11 @@ label {
   font-family: "Open Sans", sans-serif;
   float: left;
 }
+
 #contact .form-control {
+  text-align: start;
   display: block;
+  margin: 0px;
   width: 100%;
   padding: 6px 12px;
   font-size: 16px;
