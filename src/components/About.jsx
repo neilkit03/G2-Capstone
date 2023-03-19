@@ -14,12 +14,15 @@ const About = () => {
               <div className='about-text'>
                 <h2>Who We Are</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum
-                  dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua.
+                Welcome to our company, a reputable real estate flipping 
+                and fixing company dedicated to transforming properties into beautiful and functional spaces.
+                We specialize in identifying undervalued properties, renovating them to the highest standards, 
+                and selling them at a profit.
+
+                Our team of skilled professionals has years of experience in the real estate industry 
+                and is committed to excellence in every aspect of our work. 
+                We take a hands-on approach to each project, working closely with our clients to understand their vision and bring it to life. 
+                From design and construction to marketing and sales, we manage every aspect of the process to ensure that our clients receive exceptional results
                 </p>
                 <h3>Why Choose Us?</h3>
                 <div className='list-style'>
